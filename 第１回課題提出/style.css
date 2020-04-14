@@ -9,6 +9,7 @@
 	clear: both;
 }
 main {
+	width: 960px;
 	margin: 50px auto;
 }
 .step-box {
